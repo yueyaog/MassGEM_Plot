@@ -96,9 +96,7 @@ def PdfPlot(Plot_Name,GeneList,Expression_DF):
  
 PdfPlot('{}_MassGEM_plots.pdf'.format(args.output_prefix),input_genelist,Grep_DF(input_genelist,Label_list))
  
-#os.chdir('/zfs/lasernode/feltuslab/gaoyy/LCM_related/Laser_capture_data/LCM_GEMs/GEMs')
-#LCM_exp_df = pd.read_csv('LCM80_FPKMs.csv',index_col='Unnamed: 0')
-#LCM_exp_df.head()
+
  
 
 
