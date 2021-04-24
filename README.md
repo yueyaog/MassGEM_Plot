@@ -17,7 +17,7 @@ After that, simply clone MassGEM_Plot repository to use MassGEM_Plot
 ```
 git clone https://github.com/yueyaog/MassGEM_Plot.git
 ```
-##Input Data
+## Input Data
 MassGEM_Plot takes three primary inputs: 
 - a gene expression matrix(GEM)
 - a mega info file with sample labels and timepoints
