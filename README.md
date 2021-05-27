@@ -11,7 +11,7 @@ conda create -n MassGEM_Plot python=3.6 matplotlib numpy pandas seaborn
 ```
 Once the anaconda environment has been created, you need to activate your environment to use MassGEM_Plot:
 ```
-conda activate MassGEM_Plot
+source activate MassGEM_Plot
 ```
 After that, simply clone MassGEM_Plot repository to use MassGEM_Plot
 ```
